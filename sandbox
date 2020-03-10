@@ -26,8 +26,8 @@
 7) запустить composer.phar update
 8) включить версионность и закоммитить голую установку
 9) скопировать все свои папки и файлы из старой версии в новую
-10) запустить composer.phar require laravel/ul
-11) запустить artisan ui vue --auth (для базовых видов авторизации)
+10) запустить php composer.phar require laravel/ul
+11) запустить php artisan ui vue --auth (для базовых видов авторизации)
 
 
 php artisan migrate:refresh --seed //обновить данные в базе
