@@ -46,3 +46,7 @@ php composer.phar require barryvdh/laravel-ide-helper --dev
     
 php artisan migrate:refresh --seed //обновить данные в базе
 php artisan serve //запустить сервер
+
+------------------------
+npm run dev
+npm run watch
