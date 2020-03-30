@@ -33,6 +33,7 @@ php composer.phar require barryvdh/laravel-ide-helper --dev
 10) перенести файл User.php в папку models
 11) запустить для базовых видов авторизации 
       php composer.phar require laravel/ui
+      composer require laravel/ui
       php artisan ui vue --auth
 12) создать базу данны и прописать данные в .env
 14) создать и заполнить таблицы 
